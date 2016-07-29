@@ -8,3 +8,6 @@ new modification
 
 
 change for new pull request
+
+another change
+amend commit change
